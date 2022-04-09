@@ -1,6 +1,9 @@
 ### git init
 Inicializa o repositório
 
+### git add *
+Adiciona arquivos ao repo
+
 ### git remote add origin *url do repo*
 Linka o repositório local com o repositório na nuvem
 
